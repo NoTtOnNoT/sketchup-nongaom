@@ -19,6 +19,7 @@ const tools = [
     { name: "Follow Me", cat: "modification", icon: "sketchup15.jpg", win: "N/A", mac: "N/A", desc: "ดึงหน้าตัดไปตามเส้นทางที่กำหนด (เช่น บัวพื้น, ท่อน้ำ)" },
     { name: "Offset", cat: "modification", icon: "sketchup12.jpg", win: "F", mac: "F", desc: "สร้างเส้นขนานจากเส้นขอบเดิม เหมาะสำหรับทำผนังห้อง" },
     { name: "Delete", cat: "modification", icon: "sketchup23.jpg", win: "Del", mac: "Del", desc: "ลบวัตถุที่เลือก" },
+    { name: "Tape Measure (ตลับเมตร)", cat: "modification", icon: "sketchup17.jpg", win: "T", mac: "T", desc: "วัดระยะและสร้างเส้น Guide" },
 
     // CAMERA
     { name: "Orbit (หมุนภาพ)", cat: "camera", icon: "sketchup18.jpg", win: "Scroll", mac: "Scroll", desc: "คลิกปุ่มลูกกลิ้งเมาส์ค้างไว้เพื่อหมุนมุมมองรอบวัตถุ" },

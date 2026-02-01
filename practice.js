@@ -32,7 +32,7 @@ const toolData = [
     { name: "Rotate (หมุน)", key: "Q", icon: "sketchup21.jpg", hint: "หมุนวัตถุ กด Ctrl เพื่อหมุนพร้อมก๊อปปี้" },
     { name: "Scale (สเกล)", key: "S", icon: "sketchup16.jpg", hint: "ปรับขนาด กด Ctrl ค้างเพื่อปรับจากจุดศูนย์กลาง" },
     { name: "Offset", key: "F", icon: "sketchup12.jpg", hint: "สร้างเส้นขนาน เหมาะสำหรับทำผนัง" },
-    { name: "Tape Measure (ตลับเมตร)", key: "T", icon: "sketchup11.jpg", hint: "วัดระยะและสร้างเส้น Guide" },
+    { name: "Tape Measure (ตลับเมตร)", key: "T", icon: "sketchup17.jpg", hint: "วัดระยะและสร้างเส้น Guide" },
     { name: "Pan (เลื่อนภาพ)", key: "H", icon: "sketchup19.jpg", hint: "เลื่อนหน้าจอขนานไปกับงาน" },
     { name: "Orbit (หมุนภาพ)", key: "O", icon: "sketchup18.jpg", hint: "หมุนมุมมองรอบวัตถุ (หรือกดปุ่มกลางเมาส์)" }
 ];
